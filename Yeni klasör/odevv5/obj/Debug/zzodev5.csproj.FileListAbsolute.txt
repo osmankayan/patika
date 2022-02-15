@@ -1,0 +1,7 @@
+C:\c# eğitim\NetFramework\odevv5\bin\Debug\odevv5.exe.config
+C:\c# eğitim\NetFramework\odevv5\bin\Debug\odevv5.exe
+C:\c# eğitim\NetFramework\odevv5\bin\Debug\odevv5.pdb
+C:\c# eğitim\NetFramework\odevv5\obj\Debug\zzodev5.csprojAssemblyReference.cache
+C:\c# eğitim\NetFramework\odevv5\obj\Debug\zzodev5.csproj.CoreCompileInputs.cache
+C:\c# eğitim\NetFramework\odevv5\obj\Debug\odevv5.exe
+C:\c# eğitim\NetFramework\odevv5\obj\Debug\odevv5.pdb
